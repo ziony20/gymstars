@@ -54,7 +54,7 @@ function Gimnasios_list(){
 </li>
         </ul>
         <div class="card-body">
-          <a href="#" class="card-link" to="https://www.instagram.com/ultra.gym/?hl=es">Página directa</a>
+          <a href="https://ultragym.co/" class="card-link" to="https://www.instagram.com/ultra.gym/?hl=es">Página directa</a>
         </div>
       </div>
       </section>
@@ -77,7 +77,7 @@ function Gimnasios_list(){
           <li class="list-group-item"><FaInstagram /> athleticol</li>
         </ul>
         <div class="card-body">
-          <a href="#" class="card-link">Pagina directa</a>
+          <a href="https://athleticgym.com.co/" class="card-link">Pagina directa</a>
         </div>
       </div>
         </section>
@@ -100,7 +100,7 @@ function Gimnasios_list(){
           <li class="list-group-item"><FaInstagram /> smarfitco</li>
         </ul>
         <div class="card-body">
-          <a href="#" class="card-link">Pagina directa</a>
+          <a href="https://www.smartfit.com.co/?utm_campaign=co_mltp_all_ao_aomarca_conv_2023&utm_medium=cpc&utm_source=google&gad_source=1&gclid=Cj0KCQjw0Oq2BhCCARIsAA5hubUqKDqrW8eviAKeht835i24huBkEVFN6BzRzBgxr21pUSfv1u1g2hwaAnNREALw_wcB" class="card-link">Pagina directa</a>
         </div>
       </div>
       </section>

@@ -9,6 +9,7 @@ import entrenador3 from "../imagenes/entrenador3.png";
 function Entrenadores_list() {
   return (
     <div className="container">
+      <section className="pb-5"></section>
       <div className="card">
         <img src={entrenador1} className="card-img-top rounded mx-auto d-block" alt="imagen"></img>
 
@@ -26,6 +27,7 @@ function Entrenadores_list() {
           <a href="#" className="btn btn-primary">Contactar</a>
         </div>
       </div>
+      <section className="pb-5"></section>
       <div className="card">
         <img src={entrenador2} className="card-img-top rounded mx-auto d-block" alt="imagen"></img>
         <div className="card-body">
@@ -42,6 +44,7 @@ function Entrenadores_list() {
           <a href="#" className="btn btn-primary">Contactar</a>
         </div>
       </div>
+      <section className="pb-5"></section>
       <div className="card">
         <img src={entrenador3} className="card-img-top rounded mx-auto d-block" alt="imagen"></img>
         <div className="card-body">
@@ -58,6 +61,7 @@ function Entrenadores_list() {
           <a href="#" className="btn btn-primary">Contactar</a>
         </div>
       </div>
+      <section className="pb-5"></section>
       <figure className="text-center">
         <blockquote className="blockquote">
           <p><strong><cite title="Source Title">Transforma tu cuerpo, fortalece tu mente, vive en equilibrio</cite></strong></p>
